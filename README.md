@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a>
+   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,html,ts,react,nodejs,mongodb,graphql" />
   </a>
 </p>
