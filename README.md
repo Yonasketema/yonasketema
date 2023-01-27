@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,html,ts,react,nodejs,mongodb,graphql" />
+    <img src="https://skillicons.dev/icons?i=git,html,sass,ts,react,nodejs,mongodb,graphql,py,django" />
   </a>
 </p>
 
